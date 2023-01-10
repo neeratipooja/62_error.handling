@@ -2,7 +2,7 @@
 DATE:28TH DEC 2022
 DAY: WEDNESDAY
 TOPIC: ERROR_HANDLING
-AUTHOR:RAMA BHARGAvi
+AUTHOR:krishna pooja
 '''
 print("python")
 print("core python")
